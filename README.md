@@ -6,7 +6,7 @@ When trying to remember some of these functions, I have found that doing somethi
 
 I'm sharing the file to save you the time of making your own, and I hope it is helpful for you! 
 
-If you'd like to connect, my LinkedIn is www.linkedin.com/in/james-robey12
+If you'd like to connect with me or recommend any improvements for the exercises, my LinkedIn is www.linkedin.com/in/james-robey12.
 
 Happy coding! 
 
